@@ -21,7 +21,7 @@ Hold:            `Space`
 About
 -----
 
-Written by James Kimani
+Written by James M Kimani
 
 License
 -------

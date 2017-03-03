@@ -20,14 +20,15 @@ body {
 
 .jumbotron {
   background-color: #FA8072;
+  height: 210px;
 }
 
 .wrapper {
-  width: 550px;
-  height: 335px;
+  width: 1000px;
+  height: 910px;
   border: 2px solid black;
   background-color: white;
-  margin-left: 290px;
+  margin-left: 160px;
   min-height: 12px;
 }
 .logo {
